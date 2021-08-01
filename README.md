@@ -8,4 +8,3 @@ A car that avoids solid surface obstacles, built using an Arduino Uno, ultrasoni
 
 ## Step 3: Assemble! 
 ![IMG_2493 (1)](https://user-images.githubusercontent.com/70120613/127758641-cd49ec67-7c0d-47bb-880b-60878e431e2e.PNG)
-![909150EF-AA02-410D-809C-464BECA795D1](https://user-images.githubusercontent.com/70120613/127758644-98fc3131-7749-4906-93f1-10b80a0da775.JPG)
